@@ -143,3 +143,19 @@ index.html
          style="width:100%; height:auto;">
 </section>
 
+<section style="background:white; margin:20px; padding:25px; border-radius:6px;">
+    <h2>Nossa Atuação</h2>
+    <p>Atuação prática em treinamentos, inspeções e orientação técnica em Segurança do Trabalho.</p>
+
+    <div style="display:flex; flex-wrap:wrap; gap:15px;">
+        <img src="imagens/operacao-empilhadeira.jpg"
+             alt="Operação segura de empilhadeira conforme NR-11"
+             style="width:100%; max-width:320px; border-radius:6px;">
+
+        <img src="imagens/treinamento-seguranca.jpg"
+             alt="Treinamento em Segurança do Trabalho"
+             style="width:100%; max-width:320px; border-radius:6px;">
+    </div>
+</section>
+
+
