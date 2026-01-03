@@ -137,3 +137,9 @@ index.html
 
 </body>
 </html>
+<section style="padding:0;">
+    <img src="imagens/operacao-empilhadeira.jpg"
+         alt="Segurança do Trabalho em operação industrial"
+         style="width:100%; height:auto;">
+</section>
+
